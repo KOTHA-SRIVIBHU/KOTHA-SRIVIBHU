@@ -1,4 +1,4 @@
-# Hi, I'm Srivibhu 👋
+# Hi, I'm Kotha Srivibhu 
 
 🎓 Computer Science undergraduate (Data Science) at VIT Chennai  
 💡 Interested in Machine Learning, Generative AI, and Backend Systems  
